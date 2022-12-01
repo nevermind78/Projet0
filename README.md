@@ -2,7 +2,7 @@
 Projet blanc analyse de donnée
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Project0/main?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Projet0/main?labpath=index.ipynb)
 
 
 ## :file_folder: dataset 
